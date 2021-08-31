@@ -1,0 +1,1464 @@
+{
+    "code": 200,
+    "action": "getWaypoints",
+    "body": {
+        "waypoints": [
+            {
+                "id": 140,
+                "name": "VisitLex Main Office",
+                "description": "Welcome to Lexington, Kentucky, the Horse Capital of the World! You might recognize us for our bourbon, as 95% of the world’s bourbon supply is made right here in Kentucky. Matter of fact, there are 14 distilleries within 35 minutes of where you are standing right now. You might also recognize us as the home of the University of Kentucky Wildcats, the winningest program in college basketball history!\nBut enough of the small talk.  Lets get on with the tour!  This virtual tour uses Augmented Reality through this App.  This immersive digital experience allows you to collect items to unlock the next step in the Scavenger Hunt tour, collect items at ALL of the locations, and then get a reward after you have them all.  \nAbout time for me to stop blabbing so here’s how this works: when I’m done talking, you will pan your phone around and look for the first marker to start your journey- and that’s where you start walking… When you get to the location, a blue horse will appear; tap on the blue horse to collect it and listen to the description of the location.  Once you have listened to the story at each waypoint, pan your phone around and the next location will appear.  Collect all of the blue horses and you will receive a reward at the end of your journey.  Now, some of these stops have murals that will allow you to view the mural through the app on your phone and see some cool augmented reality!  We hope you enjoy our beautiful city!\n",
+                "latitude": "38.04753500",
+                "longitude": "-84.49808400",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 214,
+                    "type": "image",
+                    "title": "visitlex_visitlexhq.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-orig-visitlex_visitlexhq.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-64-visitlex_visitlexhq.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-256-visitlex_visitlexhq.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-512-visitlex_visitlexhq.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-1024-visitlex_visitlexhq.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-2048-visitlex_visitlexhq.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 5,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1881389,
+                                    "duration": 94,
+                                    "durationMillis": 93218
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1508476,
+                                    "duration": 94,
+                                    "durationMillis": 93218
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 755171,
+                                    "duration": 94,
+                                    "durationMillis": 93286
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 2237588,
+                                    "duration": 94,
+                                    "durationMillis": 93204
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1864665,
+                                    "duration": 94,
+                                    "durationMillis": 93204
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Intro-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1491740,
+                                    "duration": 94,
+                                    "durationMillis": 93204
+                                }
+                            ],
+                            "assetID": 230
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-64-visitlex_visitlexhq.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-256-visitlex_visitlexhq.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-512-visitlex_visitlexhq.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-1024-visitlex_visitlexhq.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-2048-visitlex_visitlexhq.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894134-orig-visitlex_visitlexhq.png"
+            },
+            {
+                "id": 141,
+                "name": "Downtown Arts Center",
+                "description": "Well, Hello.  Aren’t we fancy.  First stop is the Lexington Downtown Arts Center.  We are so sophisticated, aren’t we?  This building encompasses a cafe, an art gallery, performance and rehearsal spaces and offices. There is a 250 seat contemporary \"Black Box\" theater with flexible seating and state-of-the-art lighting and sound that is perfect for special events.  The Gallery is beautiful.  Feel free to pause your tour at any time and check out the venue, and grab something to eat or drink.  We will be here whenever you come back to take you to the next stop!",
+                "latitude": "38.04567900",
+                "longitude": "-84.49622300",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 215,
+                    "type": "image",
+                    "title": "Visitlex_artscenter.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-orig-Visitlex_artscenter.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-64-Visitlex_artscenter.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-256-Visitlex_artscenter.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-512-Visitlex_artscenter.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-1024-Visitlex_artscenter.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-2048-Visitlex_artscenter.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 3,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 912255,
+                                    "duration": 46,
+                                    "durationMillis": 45174
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 731511,
+                                    "duration": 46,
+                                    "durationMillis": 45174
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 366884,
+                                    "duration": 46,
+                                    "durationMillis": 45242
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 1084648,
+                                    "duration": 46,
+                                    "durationMillis": 45165
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 903881,
+                                    "duration": 46,
+                                    "durationMillis": 45165
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-DowntownArtsCenter-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 723113,
+                                    "duration": 46,
+                                    "durationMillis": 45165
+                                }
+                            ],
+                            "assetID": 229
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-64-Visitlex_artscenter.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-256-Visitlex_artscenter.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-512-Visitlex_artscenter.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-1024-Visitlex_artscenter.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-2048-Visitlex_artscenter.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894155-orig-Visitlex_artscenter.png"
+            },
+            {
+                "id": 142,
+                "name": "Lincoln Mural",
+                "description": "Hello there…Four score and seven years ago…ahem, ahem…just joking I wouldn’t make you stand there for the whole Gettysburg address…although it was some of my finest work.  Welcome to the mural of one of America's greatest heroes, you know for being the 16th President of the United States, my role with that whole ‘union’ thing and my impact in continuing the fight for equality and freedom….I’m kind of a big deal, no pun intended….Everything was going just according to plan until that whole John Wilkes Booth and the theater thing…I was born in Hodgenville, KY which is only about an hour and half from here and my wife, Mary Todd Lincoln, was born right here in Lexington – if you haven’t yet, you must go check out the Mary Todd Lincoln house, im sure its not a later part of this tour, hint. hint.  It’s just a few blocks over there by Rupp Arena…Go Cats!  Anyway, enjoy this beautiful city, known as the “Athens of the West”.  I will leave you with these wise words I once said: “You cannot escape the responsibility of tomorrow by evading today”.",
+                "latitude": "38.04405735",
+                "longitude": "-84.49581592",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 216,
+                    "type": "image",
+                    "title": "visitlex_lincolnmemorial.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-orig-visitlex_lincolnmemorial.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-64-visitlex_lincolnmemorial.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-256-visitlex_lincolnmemorial.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-512-visitlex_lincolnmemorial.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-1024-visitlex_lincolnmemorial.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-2048-visitlex_lincolnmemorial.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 2,
+                        "type": "video",
+                        "chromaKey": "",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LincolnMural-video-720p.webm",
+                                    "type": "Webm VP9 720p",
+                                    "resolution": 720,
+                                    "size": 842,
+                                    "frameRate": "30",
+                                    "fileSize": 9726929,
+                                    "duration": 73,
+                                    "durationMillis": 72194
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LincolnMural-video-360p.webm",
+                                    "type": "Webm VP9 360p",
+                                    "resolution": 360,
+                                    "size": 448,
+                                    "frameRate": "30",
+                                    "fileSize": 4584084,
+                                    "duration": 73,
+                                    "durationMillis": 72194
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LincolnMural-video-360p.mp4",
+                                    "type": "Generic 360p",
+                                    "resolution": 360,
+                                    "size": 598,
+                                    "frameRate": "29.97",
+                                    "fileSize": 11706090,
+                                    "duration": 73,
+                                    "durationMillis": 72238
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LincolnMural-video-720p.mp4",
+                                    "type": "Generic 720p",
+                                    "resolution": 720,
+                                    "size": 842,
+                                    "frameRate": "29.97",
+                                    "fileSize": 21485494,
+                                    "duration": 73,
+                                    "durationMillis": 72238
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LincolnMural-video-1080p.mp4",
+                                    "type": "Generic 1080p",
+                                    "resolution": 1080,
+                                    "size": 842,
+                                    "frameRate": "29.97",
+                                    "fileSize": 32616484,
+                                    "duration": 73,
+                                    "durationMillis": 72238
+                                }
+                            ],
+                            "assetID": 242
+                        }
+                    },
+                    {
+                        "id": 29,
+                        "type": "image_recognition",
+                        "height": null,
+                        "width": "16.00000",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548165632-64-lincoln_mural.png",
+                                    "size": 64
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548165632-256-lincoln_mural.png",
+                                    "size": 256
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548165632-512-lincoln_mural.png",
+                                    "size": 512
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548165632-1024-lincoln_mural.png",
+                                    "size": 1024
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548165632-2048-lincoln_mural.png",
+                                    "size": 2048
+                                }
+                            ],
+                            "assetID": 262
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-64-visitlex_lincolnmemorial.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-256-visitlex_lincolnmemorial.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-512-visitlex_lincolnmemorial.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-1024-visitlex_lincolnmemorial.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-2048-visitlex_lincolnmemorial.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894173-orig-visitlex_lincolnmemorial.png"
+            },
+            {
+                "id": 143,
+                "name": "Thoroughbred Park",
+                "description": "Hey Hey Y’all – you are now standing at Thoroughbred Park. This two and a half acre park, dedicated to the Thoroughbred industry, contains seven life-size and life-like bronze racehorses streaking toward the finish line, while broodmares, foals and the great stallion, Lexington 'graze' in a nearby field. Jockey greats Randy Romero, Pat Day, Bill Shoemaker, Jerry Bailey, Don Brumfield, Chris McCarron and Craig Perret are all represented in the race. All sculptures were created by the great sculptor and artist Gwen Reardon. As the daughter of a prominent trainer, Gwen became an accomplished equestrienne at an early age. Obviously with the time spent around horses growing up, there is no shortage to the detail giving in her work.  So, there you have it, Thoroughbred park…the only rule is that you must take a picture with the horses.  You can not come to this park and leave without a horse selfie.  Now, cheese it up!",
+                "latitude": "38.04136725",
+                "longitude": "-84.49095349",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 217,
+                    "type": "image",
+                    "title": "visitlex_thoroughbredpark.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-orig-visitlex_thoroughbredpark.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-64-visitlex_thoroughbredpark.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-256-visitlex_thoroughbredpark.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-512-visitlex_thoroughbredpark.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-1024-visitlex_thoroughbredpark.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-2048-visitlex_thoroughbredpark.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 9,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1319778,
+                                    "duration": 66,
+                                    "durationMillis": 65387
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1058351,
+                                    "duration": 66,
+                                    "durationMillis": 65387
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 530235,
+                                    "duration": 66,
+                                    "durationMillis": 65455
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 1569898,
+                                    "duration": 66,
+                                    "durationMillis": 65384
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1308257,
+                                    "duration": 66,
+                                    "durationMillis": 65384
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ThoroughbredPark-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1046613,
+                                    "duration": 66,
+                                    "durationMillis": 65384
+                                }
+                            ],
+                            "assetID": 235
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-64-visitlex_thoroughbredpark.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-256-visitlex_thoroughbredpark.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-512-visitlex_thoroughbredpark.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-1024-visitlex_thoroughbredpark.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-2048-visitlex_thoroughbredpark.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894189-orig-visitlex_thoroughbredpark.png"
+            },
+            {
+                "id": 144,
+                "name": "Lyric Theater",
+                "description": "Aaaahhhh yyyeeeeaaaaahh….Vibrant. Alive. The place to be and be seen. Between 1948 and 1963, the Lyric Theatre was a thriving entertainment centerpiece for Lexington’s African-American families. Originally built as a movie house, the Lyric opened right where you are at the corner of Third and Deweese Street (now Elm Tree Lane). This place had its finger on the pulse of a cultural boom and quickly became an icon…Everyone has his or her favorite memory – the movies, fashion shows, vaudeville acts, local concerts, pageants – but during the ‘50s it was smooth Jazz, Soul and R&B that took center stage, the Lyric welcomed big-name acts like Ray Charles and Count Basie….Soulful sounds filled the theatre with other notable performers including: B.B. King; Wynonie Harris, who wrote Good Rocking Tonight, recorded by Elvis Presley; Mercer Ellington, the only son of Duke Ellington; and Billy Brown, formerly of the Dominos, who formed The Checkers and began recording for King Records….Entertainment wasn’t the only draw. Numerous small black-owned business – from clothing stores to ice cream shops – were launched in and around the theatre. Before closing in 1963, the theatre returned to its roots as a movie theatre, featuring horror films and black cowboy movies plus Saturday morning cartoons….The new Lyric offers much more than a chance to relive history. Feel free to come inside and see the beautiful facility and enjoy the modern age Lyric!",
+                "latitude": "38.04631860",
+                "longitude": "-84.48917401",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 218,
+                    "type": "image",
+                    "title": "Visitlex_lyrictheatre.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-orig-Visitlex_lyrictheatre.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-64-Visitlex_lyrictheatre.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-256-Visitlex_lyrictheatre.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-512-Visitlex_lyrictheatre.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-1024-Visitlex_lyrictheatre.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-2048-Visitlex_lyrictheatre.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 6,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1788177,
+                                    "duration": 89,
+                                    "durationMillis": 88598
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1433748,
+                                    "duration": 89,
+                                    "durationMillis": 88598
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 717994,
+                                    "duration": 89,
+                                    "durationMillis": 88666
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 2126620,
+                                    "duration": 89,
+                                    "durationMillis": 88581
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1772192,
+                                    "duration": 89,
+                                    "durationMillis": 88581
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-LyricTheater-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1417761,
+                                    "duration": 89,
+                                    "durationMillis": 88581
+                                }
+                            ],
+                            "assetID": 232
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-64-Visitlex_lyrictheatre.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-256-Visitlex_lyrictheatre.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-512-Visitlex_lyrictheatre.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-1024-Visitlex_lyrictheatre.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-2048-Visitlex_lyrictheatre.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894199-orig-Visitlex_lyrictheatre.png"
+            },
+            {
+                "id": 145,
+                "name": "Transylvania University & Gratz Park",
+                "description": "Bon Jovi, You’re halfway there – welcome to Transylvania University and The Gratz Park Historic District.  While we won’t talk vampires, this area of Lexington is one of the most beautiful areas in downtown Lexington, comprised of a city park and several large residences. Gratz Park occupies a tract of land that was established in 1781 outside of the original boundaries of Lexington when the town plat was prepared that year by order of the Virginia Assembly. In 1793 the park was purchased by the Transylvania Seminary as the site for its Lexington campus. Transylvania University, is ranked in the top 15 percent of the nation’s four-year colleges by The Princeton Review, which cites its community-driven, personalized approach to a liberal arts education. Founded in 1780, it is the 16th oldest institution of higher learning in the country, with nearly 1,000 students. Not that we are bragging or anything buuuuutttttt….Famed statesman Henry Clay was a law professor and a member of Transylvania's Board of Trustees. Transylvania alumni include distinguished public figures such as founder and hero of Texas Stephen F. Austin, abolitionist Cassius M. Clay, U.S. vice presidents John C. Breckinridge and Richard M. Johnson and Supreme Court justices John Marshall Harlan and Samuel Freeman Miller. Fifty U.S. senators, 101 U.S. representatives, 36 governors and 34 ambassadors are numbered among Transylvania graduates. Humble Brag? Take a stroll and enjoy the views!",
+                "latitude": "38.05095296",
+                "longitude": "-84.49436115",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 219,
+                    "type": "image",
+                    "title": "visitlex_gratzpark.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-orig-visitlex_gratzpark.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-64-visitlex_gratzpark.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-256-visitlex_gratzpark.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-512-visitlex_gratzpark.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-1024-visitlex_gratzpark.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-2048-visitlex_gratzpark.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 10,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 2184447,
+                                    "duration": 109,
+                                    "durationMillis": 108232
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1751437,
+                                    "duration": 109,
+                                    "durationMillis": 108232
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 876839,
+                                    "duration": 109,
+                                    "durationMillis": 108300
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 2598078,
+                                    "duration": 109,
+                                    "durationMillis": 108225
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 2165073,
+                                    "duration": 109,
+                                    "durationMillis": 108225
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-Transy-GratzPark-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1732066,
+                                    "duration": 109,
+                                    "durationMillis": 108225
+                                }
+                            ],
+                            "assetID": 236
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-64-visitlex_gratzpark.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-256-visitlex_gratzpark.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-512-visitlex_gratzpark.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-1024-visitlex_gratzpark.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-2048-visitlex_gratzpark.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894211-orig-visitlex_gratzpark.png"
+            },
+            {
+                "id": 146,
+                "name": "Man o' War Mural",
+                "description": "Well, look at that beauty.  That up there on the wall is a mural of Ol’ Big Red.   Man O’War himself.  Often thought of as the greatest horse of all time, and you know, he never even ran the derby, because his owner Samuel Riddle thought that the mile-and-a-quarter distance was too long for the colt.  Man O War  grew to be the most famous horse in America.  Winning 20 of 21 lifetime races, he often broke every track and world record.  Ironically the one upset loss in his career came by a horse named Upset…coincidence?  You know that loss is one of the most controversial in all of sports.  Legend has it they opened the gate and Man O War was backwards and as he was caught up and came firing down the stretch in an effort to catch Upset, he only lost by a nose at the wire.  And if you didn’t think he was a big deal, his funeral was broadcast nationwide in front of a crowd of 7,500 people with 9 eulogies.  So there you have it. Man O War was kind of like the Babe Ruth of horse racing.",
+                "latitude": "38.04896340",
+                "longitude": "-84.49835524",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 220,
+                    "type": "image",
+                    "title": "Visitlex_villageidiot.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-orig-Visitlex_villageidiot.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-64-Visitlex_villageidiot.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-256-Visitlex_villageidiot.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-512-Visitlex_villageidiot.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-1024-Visitlex_villageidiot.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-2048-Visitlex_villageidiot.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 13,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1171764,
+                                    "duration": 59,
+                                    "durationMillis": 58041
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 939620,
+                                    "duration": 59,
+                                    "durationMillis": 58041
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 470903,
+                                    "duration": 59,
+                                    "durationMillis": 58109
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 1393729,
+                                    "duration": 59,
+                                    "durationMillis": 58044
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1161449,
+                                    "duration": 59,
+                                    "durationMillis": 58044
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-ManOWar-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 929167,
+                                    "duration": 59,
+                                    "durationMillis": 58044
+                                }
+                            ],
+                            "assetID": 239
+                        }
+                    },
+                    {
+                        "id": 14,
+                        "type": "video",
+                        "chromaKey": "",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VistLex-ManOWar-video-720p.webm",
+                                    "type": "Webm VP9 720p",
+                                    "resolution": 720,
+                                    "size": 872,
+                                    "frameRate": "30",
+                                    "fileSize": 18982723,
+                                    "duration": 122,
+                                    "durationMillis": 121003
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VistLex-ManOWar-video-360p.webm",
+                                    "type": "Webm VP9 360p",
+                                    "resolution": 360,
+                                    "size": 640,
+                                    "frameRate": "30",
+                                    "fileSize": 9375604,
+                                    "duration": 122,
+                                    "durationMillis": 121003
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VistLex-ManOWar-video-360p.mp4",
+                                    "type": "Generic 360p",
+                                    "resolution": 360,
+                                    "size": 854,
+                                    "frameRate": "29.97",
+                                    "fileSize": 19541425,
+                                    "duration": 122,
+                                    "durationMillis": 121028
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VistLex-ManOWar-video-720p.mp4",
+                                    "type": "Generic 720p",
+                                    "resolution": 720,
+                                    "size": 872,
+                                    "frameRate": "29.97",
+                                    "fileSize": 37959232,
+                                    "duration": 122,
+                                    "durationMillis": 121028
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VistLex-ManOWar-video-1080p.mp4",
+                                    "type": "Generic 1080p",
+                                    "resolution": 1080,
+                                    "size": 872,
+                                    "frameRate": "29.97",
+                                    "fileSize": 83403091,
+                                    "duration": 122,
+                                    "durationMillis": 121028
+                                }
+                            ],
+                            "assetID": 241
+                        }
+                    },
+                    {
+                        "id": 30,
+                        "type": "image_recognition",
+                        "height": null,
+                        "width": null,
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548169279-64-vi.png",
+                                    "size": 64
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548169279-256-vi.png",
+                                    "size": 256
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548169279-512-vi.png",
+                                    "size": 512
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548169279-1024-vi.png",
+                                    "size": 1024
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1548169279-2048-vi.png",
+                                    "size": 2048
+                                }
+                            ],
+                            "assetID": 263
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-64-Visitlex_villageidiot.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-256-Visitlex_villageidiot.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-512-Visitlex_villageidiot.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-1024-Visitlex_villageidiot.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-2048-Visitlex_villageidiot.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894226-orig-Visitlex_villageidiot.png"
+            },
+            {
+                "id": 147,
+                "name": "Lexington Opera House",
+                "description": "You have officially made it to the famed Lexington Opera House.  Over 200 years of history where you stand.  Two years before Kentucky gained statehood students from the school, Transylvania University, performed before a “respectable audience” an unnamed farce and an unnamed tragedy. These were the first theatrical productions of record west of the Allegheny Mountains. Interest in, and growth of the theatre was phenomenal. You frequently find Lexington referred to as “the Athens of the West” due to the entertainment culture and theatre. At this time in history, Lexington’s population was larger than that of Chicago, and the residents were highly educated. Thus, Lexington had quality professional theatre 20 years before St. Louis and 30 years before Chicago.  For quite a while the updated theatre itself was the star. In 1886 the Opera House got a facelift.  A Little fire took the whole thing down…when it reopened, it came equipped with an Edison light board, state of the art at the time, which was still operable at the time of the 1976 renovation. The stage had a complex series of trap doors to enable horses (and other animals) to be used in stage productions. Both of these features were innovations in that time and place.  It is remarkably beautiful in there.  You must enjoy!\n",
+                "latitude": "38.04983418",
+                "longitude": "-84.49932072",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 221,
+                    "type": "image",
+                    "title": "visitlex_operahouse.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-orig-visitlex_operahouse.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-64-visitlex_operahouse.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-256-visitlex_operahouse.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-512-visitlex_operahouse.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-1024-visitlex_operahouse.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-2048-visitlex_operahouse.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 8,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1702929,
+                                    "duration": 85,
+                                    "durationMillis": 84375
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1365404,
+                                    "duration": 85,
+                                    "durationMillis": 84375
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 683822,
+                                    "duration": 85,
+                                    "durationMillis": 84443
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 2025683,
+                                    "duration": 85,
+                                    "durationMillis": 84375
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1688077,
+                                    "duration": 85,
+                                    "durationMillis": 84375
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-OperaHouse-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1350470,
+                                    "duration": 85,
+                                    "durationMillis": 84375
+                                }
+                            ],
+                            "assetID": 234
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-64-visitlex_operahouse.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-256-visitlex_operahouse.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-512-visitlex_operahouse.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-1024-visitlex_operahouse.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-2048-visitlex_operahouse.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894237-orig-visitlex_operahouse.png"
+            },
+            {
+                "id": 148,
+                "name": "Mary Todd Lincoln House",
+                "description": "Well, Hello there.  Welcome to my home.  I call it my home…but everyone else calls this the ‘Mary Todd Lincoln house’.  I’m sure you met my husband earlier….larger than life character indeed. I was born into a prominent family here in Lexington and often ran with the influential parties and political groups alongside 3-time presidential candidate Mr. Henry Clay.  Eventually I met my future husband while visiting my sister in Springfield, Illinois.  This house has a lot of history, it was even Lexington’s most prominent brothel in 1880…I can’t even!  Anyway, please do come in and take a tour.  It’s quite lovely and everyone is welcome.",
+                "latitude": "38.05138563",
+                "longitude": "-84.50267491",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 222,
+                    "type": "image",
+                    "title": "Visitlex_marytoddlicolnhouse.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-orig-Visitlex_marytoddlicolnhouse.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-64-Visitlex_marytoddlicolnhouse.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-256-Visitlex_marytoddlicolnhouse.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-512-Visitlex_marytoddlicolnhouse.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-1024-Visitlex_marytoddlicolnhouse.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-2048-Visitlex_marytoddlicolnhouse.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 7,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1146939,
+                                    "duration": 57,
+                                    "durationMillis": 56812
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 919646,
+                                    "duration": 57,
+                                    "durationMillis": 56812
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 460764,
+                                    "duration": 57,
+                                    "durationMillis": 56880
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 1364262,
+                                    "duration": 57,
+                                    "durationMillis": 56816
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1136894,
+                                    "duration": 57,
+                                    "durationMillis": 56816
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-MaryToddLincolnHouse-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 909523,
+                                    "duration": 57,
+                                    "durationMillis": 56816
+                                }
+                            ],
+                            "assetID": 233
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-64-Visitlex_marytoddlicolnhouse.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-256-Visitlex_marytoddlicolnhouse.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-512-Visitlex_marytoddlicolnhouse.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-1024-Visitlex_marytoddlicolnhouse.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-2048-Visitlex_marytoddlicolnhouse.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894267-orig-Visitlex_marytoddlicolnhouse.png"
+            },
+            {
+                "id": 149,
+                "name": "Triangle Park",
+                "description": "Well, here you have it!  Triangle Park. Did you know that prior to becoming a park in 1982, this block was once occupied as a grocery, pharmacy, and at one point a furniture store. Triangle park was funded by…wait for it…The Triangle Foundation…and officially opened to the public on July 2, 1982. The Triangle Foundation has also created Equestrian Park at the Bluegrass Airport, Thoroughbred Park, and the Woodland Skate park.  A well-known landscape architect by the name of Robert L. Zion designed Triangle Park. He also designed some of New York City’s most famous landscapes such as Samuel Paley Plaza, or better known as Paley Park, the atrium of the I.B.M. Building, and the Abby Aldrich Rockefeller Sculpture Garden.  The fountain that you see is one of the most recognizable features of downtown, and on any given day you can often see people primed for photo shoots or wedding pictures around it.  And of course just over that fountain is Rupp Arena.  Home to our beloved Kentucky Wildcats.  You should go check that out.  And, you are down to your second to last stop.  We hope you are having fun!",
+                "latitude": "38.04893342",
+                "longitude": "-84.50066652",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 223,
+                    "type": "image",
+                    "title": "visitlex_ trianglepark.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-orig-visitlex_ trianglepark.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-64-visitlex_ trianglepark.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-256-visitlex_trianglepark.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-512-visitlex_ trianglepark.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-1024-visitlex_ trianglepark.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-2048-visitlex_trianglepark.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 11,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1691219,
+                                    "duration": 84,
+                                    "durationMillis": 83788
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1356016,
+                                    "duration": 84,
+                                    "durationMillis": 83788
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 678940,
+                                    "duration": 84,
+                                    "durationMillis": 83856
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 2011263,
+                                    "duration": 84,
+                                    "durationMillis": 83774
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1676061,
+                                    "duration": 84,
+                                    "durationMillis": 83774
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-TrianglePark-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1340857,
+                                    "duration": 84,
+                                    "durationMillis": 83774
+                                }
+                            ],
+                            "assetID": 237
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-64-visitlex_trianglepark.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-256-visitlex_ trianglepark.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-512-visitlex_ trianglepark.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-1024-visitlex_ trianglepark.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-2048-visitlex_ trianglepark.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894301-orig-visitlex_ trianglepark.png"
+            },
+            {
+                "id": 150,
+                "name": "VisitLex Final Stop",
+                "description": "You made it…final stop...that was fun…and now you are back…to the future!  This building is one of the most prominent and architecturally significant landmarks in downtown Lexington, and is an excellent example of Richardsonian Romanesque…try saying that 3 times fast…Richardson Romanesque….Richardson Romanesque….Richardson Romannnn…ahhh…never mind.  It is the largest of its kind in Kentucky.  Constructed in the late 1890’s and opened in 1899, Lexington’s fifth courthouse occupies the same location as its first. In 2016 the Mayor and City Council decided they needed to restore this beauty and once again make it a gathering place and important center of economic activity.  Plus, its pretty cool inside.  The dome was restored to its original splendor, including the twinkle lights, that can now be seen from the ground floor thanks to those smart and creative engineer guys.  Now, head on inside…if you’re not already, and buy some merch!  After finishing the tour, we have a coupon for you to use in the VisitLex Visitors Center that will pop up when this is over…Kentucky swag is the best swag!  Thank you! Bye!",
+                "latitude": "38.04753500",
+                "longitude": "-84.49808400",
+                "tag": "tour",
+                "active": true,
+                "asset": {
+                    "id": 224,
+                    "type": "image",
+                    "title": "visitlex_visitlexhq.png",
+                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-orig-visitlex_visitlexhq.png",
+                    "attachments": {
+                        "thumbnails": [
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-64-visitlex_visitlexhq.png",
+                                "size": 64
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-256-visitlex_visitlexhq.png",
+                                "size": 256
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-512-visitlex_visitlexhq.png",
+                                "size": 512
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-1024-visitlex_visitlexhq.png",
+                                "size": 1024
+                            },
+                            {
+                                "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-2048-visitlex_visitlexhq.png",
+                                "size": 2048
+                            }
+                        ]
+                    }
+                },
+                "extensions": [
+                    {
+                        "id": 12,
+                        "type": "audio",
+                        "assets": {
+                            "versions": [
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-160k.mp4",
+                                    "type": "Audio ACC - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1426105,
+                                    "duration": 71,
+                                    "durationMillis": 70645
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-128k.mp4",
+                                    "type": "Audio ACC - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1143472,
+                                    "duration": 71,
+                                    "durationMillis": 70645
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-64k.mp4",
+                                    "type": "Audio ACC - 64k",
+                                    "resolution": 64,
+                                    "fileSize": 572668,
+                                    "duration": 71,
+                                    "durationMillis": 70713
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-192k.mp3",
+                                    "type": "Audio MP3 - 192k",
+                                    "resolution": 192,
+                                    "fileSize": 1695913,
+                                    "duration": 71,
+                                    "durationMillis": 70635
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-160k.mp3",
+                                    "type": "Audio MP3 - 160k",
+                                    "resolution": 160,
+                                    "fileSize": 1413269,
+                                    "duration": 71,
+                                    "durationMillis": 70635
+                                },
+                                {
+                                    "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/VisitLex-VisitLex-128k.mp3",
+                                    "type": "Audio MP3 - 128k",
+                                    "resolution": 128,
+                                    "fileSize": 1130623,
+                                    "duration": 71,
+                                    "durationMillis": 70635
+                                }
+                            ],
+                            "assetID": 238
+                        }
+                    }
+                ],
+                "assets": [
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-64-visitlex_visitlexhq.png",
+                        "size": 64
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-256-visitlex_visitlexhq.png",
+                        "size": 256
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-512-visitlex_visitlexhq.png",
+                        "size": 512
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-1024-visitlex_visitlexhq.png",
+                        "size": 1024
+                    },
+                    {
+                        "url": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-2048-visitlex_visitlexhq.png",
+                        "size": 2048
+                    }
+                ],
+                "assetURL": "https://s3.amazonaws.com/gamifi-assets/16b5c1aa-b696-11e8-ac1f-0eb20392d614/1537894335-orig-visitlex_visitlexhq.png"
+            }
+        ]
+    }
+}
